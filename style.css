@@ -3,6 +3,13 @@
     src: url('americancaptain.woff2') format('woff2'),
              url('americancaptain.woff') format('woff');
 }
+#beta{
+    position: absolute;
+
+    margin-top: 0;
+    padding-top: 0;
+    bottom: -5%;
+}
 html{
     background-color: #e4f9ef;
     text-align: center;
