@@ -3093,8 +3093,8 @@ height: 70%;
 .autoretrato{
     grid-column: 3;
     position:relative;
-    width:65%;
-    height: 65%;
+    width:55%;
+    height: 55%;
     max-width: 455px;
     top: 105%;
     margin-top: 1.75cm;
